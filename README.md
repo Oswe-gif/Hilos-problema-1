@@ -1,0 +1,2 @@
+# Hilos-problema-1:
+Problema 1: Consiste en un negocio de e-commerce (tienda de zapatos). En primer lugar, se desea mantener una conexión asíncrona entre el frontend y backend para no congelar la pagina. Así que el usuario realiza una compra y se mostrara un mensaje de "gracias por su compra", pero realmente su compra aún esta siendo procesa en el backend y guardándose en la base de datos, esto con el fin de aprovechar los multihilos que ofrece Java.
